@@ -18,6 +18,4 @@ public class DemoApplication {
         return "Hello, Spring";
     }
 
-    // feature 009
-    // a commit to squash
 }
